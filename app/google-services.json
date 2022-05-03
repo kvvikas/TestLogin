@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005766041032",
+    "project_id": "testlogin-ad575",
+    "storage_bucket": "testlogin-ad575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005766041032:android:ff358162ee0b20de0934fd",
+        "android_client_info": {
+          "package_name": "com.example.testlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005766041032-m0s90d9bpp5t583e5q55hgb4mcl93tgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_gxMn-j5v1WPSDoFKnYlmj58AeNQIU90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005766041032-m0s90d9bpp5t583e5q55hgb4mcl93tgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
