@@ -24,6 +24,10 @@ class SignupActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+        btnPhoneNo.setOnClickListener {
+            val intent = Intent(this, PhoneNoActivity::class.java)
+            startActivity(intent)
+        }
     }
 
     private fun checkSignup() {
